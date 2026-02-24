@@ -29,6 +29,7 @@ A simple Android application for tracking daily expenses and managing monthly bu
 - No internet required
 - Fast and secure
 
+
 ## Tech Stack
 
 | Layer | Technology |

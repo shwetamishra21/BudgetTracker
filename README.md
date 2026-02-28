@@ -6,7 +6,6 @@
 
 A simple Android application for tracking daily expenses and managing monthly budgets with a modern interface.
 
-
 ## Features
 
 **Transaction Management**

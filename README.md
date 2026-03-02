@@ -13,6 +13,7 @@ A simple Android application for tracking daily expenses and managing monthly bu
 - Categorize transactions (Food, Travel, Bills, Shopping, etc.)
 - View complete transaction history
 
+
 **Budget Monitoring**
 - Set monthly spending limits
 - Visual indicators when approaching or exceeding budget

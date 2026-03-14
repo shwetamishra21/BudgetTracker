@@ -99,10 +99,8 @@ Contributions are welcome! Fork the repository and submit a pull request.
 5. Open a Pull Request
    
 ## Author
-
 **Shweta Mishra**  
 GitHub: [@shwetamishra21](https://github.com/shwetamishra21)
-
 ---
 
 Made with Kotlin and Jetpack Compose

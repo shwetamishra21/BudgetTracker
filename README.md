@@ -4,7 +4,7 @@
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg)
 ![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-blue.svg)
 
-A simple Android application for tracking daily expenses and managing monthly budgets with a modern interface.
+An Android application for tracking daily expenses and managing monthly budgets with a modern interface.
 
 ## Features
 

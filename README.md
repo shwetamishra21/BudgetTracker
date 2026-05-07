@@ -8,7 +8,7 @@ An Android application for tracking daily expenses and managing monthly budgets 
 ## Features
 
 **Transaction Management**
-- Add, edit, and delete income and expenses
+- Add, edit, and delete  income and expenses
 - Categorize transactions(Food, Travel,Bills,Shopping,etc.)
 - View complete transaction history
 
